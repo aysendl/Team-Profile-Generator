@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "profile generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aysendl/Team-Profile-Generator.git"
+  },
+  "author": "Ayse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aysendl/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/aysendl/Team-Profile-Generator#readme"
+}
