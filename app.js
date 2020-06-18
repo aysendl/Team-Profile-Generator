@@ -98,10 +98,6 @@ function askForManagerInfo(){
         }]
     )
     .then(({name, id, email, office})=>{
-        console.log(name)
-        console.log(id)
-        console.log(email)
-        console.log(office)
         employees.push(new Manager(name, id, email, office));
    
         askForEmployeeRole();
