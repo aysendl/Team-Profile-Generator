@@ -19,7 +19,8 @@ The output is an HTML file generated under output/ directory. The generated page
 ## Tests
 
 The tests can be run in this repository using the following command:
-```npm run test
+```
+npm run test
 ```
 
 Here is a screenshot which displays the tests:
